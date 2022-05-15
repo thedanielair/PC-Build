@@ -1,1 +1,1 @@
-github pages - thedanielair.github.io/pc-build
+github pages - [PC-Build](https://thedanielair.github.io/pc-build)
